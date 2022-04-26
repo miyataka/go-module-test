@@ -1,7 +1,7 @@
-package main
+package hoge
 
 import "fmt"
 
-func main() {
+func Hoge() {
 	fmt.Println("vim-go")
 }
